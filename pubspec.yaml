@@ -17,3 +17,12 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
+  assets:
+    - assets/
+  fonts:
+    - family: PTSans
+      fonts:
+        - asset: fonts/PTSans-Regular.ttf
+        - asset: fonts/PTSans-Italic.ttf
+          style: italic
+
