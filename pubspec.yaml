@@ -9,6 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  material_design_icons_flutter: ^7.0.7296
 
 dev_dependencies:
   flutter_test:
@@ -19,6 +20,7 @@ flutter:
   uses-material-design: true
   assets:
     - assets/
+    - assets/images/
   fonts:
     - family: PTSans
       fonts:
